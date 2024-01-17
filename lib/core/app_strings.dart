@@ -1,0 +1,47 @@
+class AppStrings {
+  static const String pleaseChooseLang = "pleaseChooseLang";
+  static const String startUse = "startUse";
+  static const String chooseLanguage = "chooseLanguage";
+  static const String arabic = "arabic";
+  static const String english = "english";
+  static const String language = "language";
+  static const String previous = "previous";
+  static const String next = "next";
+  static const String start = "start";
+  static const String exploreApp = "exploreApp";
+  static const String register = "register";
+  static const String registerUpperCase = "registerUpperCase";
+  static const String registerFirst = "registerFirst";
+  static const String loginUpperCase = "loginUpperCase";
+  static const String answer = "answer";
+  static const String reject = "reject";
+  static const String emailAddress = "emailAddress";
+  static const String password = "password";
+  static const String birthdate = "birthdate";
+  static const String gender = "gender";
+  static const String viewOnMap = "viewOnMap";
+  static const String enterYourEmailAddress = "enterYourEmailAddress";
+  static const String enterYourFullName = "enterYourFullName";
+  static const String pleaseEnterYourFullName = "pleaseEnterYourFullName";
+  static const String pleaseEnterYourEmailAddress = "pleaseEnterYourEmailAddress";
+  static const String enterYourNationalID = "enterYourNationalID";
+  static const String nationalID = "nationalID";
+  static const String pleaseEnterYourNationalID = "pleaseEnterYourNationalID";
+  static const String pleaseYourBirthdate = "pleaseYourBirthdate";
+  static const String fullName = "fullName";
+  static const String enterPassword = "enterPassword";
+  static const String home = "home";
+  static const String profile = "profile";
+  static const String editProfile = "editProfile";
+  static const String personalProfile = "personalProfile";
+  static const String settings = "settings";
+  static const String logout = "logout";
+  static const String login = "login";
+  static const String submit = "submit";
+  static const String male = "male";
+  static const String female = "female";
+  static const String selectYourGender = "selectYourGender";
+  static const String pleasWait = "pleasWait";
+  static const String loadingLocation = "loadingLocation";
+
+}

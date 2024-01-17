@@ -1,0 +1,1 @@
+enum AppDialogsTypes { success, failure }
